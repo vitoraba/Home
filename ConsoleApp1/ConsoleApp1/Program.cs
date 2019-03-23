@@ -56,7 +56,6 @@ namespace ConsoleApp1
 
             Console.ReadKey();
         }
-        teste;
     }
 
     class Tree
